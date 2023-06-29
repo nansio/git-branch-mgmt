@@ -1,5 +1,5 @@
 const a = 11
 
-const b = 2
+const b = 2222
 
-const common = '000'
+const common = 'new'
